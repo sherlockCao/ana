@@ -1,18 +1,18 @@
-##ana
-*©À©¤©¤ manage.py    #project manage
-*©¸©¤©¤ ana
-    ©À©¤©¤ __init__.py
-    ©À©¤©¤ settings.py    # ana project setting
-    ©À©¤©¤ urls.py    #all urls config 
-    ©¸©¤©¤ wsgi.py    #for web communication
-*©¸©¤©¤ application/
-    ©À©¤©¤ __init__.py 
-    ©À©¤©¤ admin.py
-    ©À©¤©¤ models.py
-    ©À©¤©¤ tests.py
-    ©¸©¤©¤ views.py
-*©¸©¤©¤ static/    #static file
-    ©À©¤©¤ css    #for css file
-    ©¸©¤©¤ image    #for image
+ï»¿##ana
+* manage.py    é¡¹ç›®ç®¡ç†
+* ana
+     __init__.py
+     settings.py    é¡¹ç›®è®¾ç½®
+     urls.py    é¡¹ç›®URL é…ç½®
+     wsgi.py    é¡¹ç›®webäº¤äº’ä½¿ç”¨
+* application/
+     __init__.py 
+     admin.py
+     models.py
+     tests.py
+     views.py
+* static/     é™æ€æ–‡ä»¶ç›®å½•
+     css      cssæ–‡ä»¶ç›®å½•
+     image    å›¾ç‰‡ç›®å½•
 
 	
